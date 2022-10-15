@@ -12,10 +12,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liuxingyu521&show_icons=true#gh-light-mode-only" alt="liuxingyu521's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liuxingyu521&show_icons=true&theme=vue-dark#gh-dark-mode-only" alt="liuxingyu521's GitHub stats" />
-</p>
+
+![GitHub stats Light](https://github-readme-stats.vercel.app/api?username=liuxingyu521&show_icons=true#gh-light-mode-only)
+![GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=liuxingyu521&show_icons=true&theme=vue-dark#gh-dark-mode-only)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liuxingyu521&label=Profile%20views&color=0e75b6&style=flat" alt="liuxingyu521" /> </p>
 
