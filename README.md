@@ -14,13 +14,13 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=liuxingyu521&show_icons=true" alt="liuxingyu521's GitHub stats" />
+    <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=liuxingyu521&show_icons=true" alt="liuxingyu521's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=liuxingyu521&show_icons=true&theme=vue-dark" alt="liuxingyu521's GitHub stats" />
+    <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=liuxingyu521&show_icons=true&theme=vue-dark" alt="liuxingyu521's GitHub stats" />
   </a>
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liuxingyu521&label=Profile%20views&color=0e75b6&style=flat" alt="liuxingyu521" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=liuxingyu521&label=Profile%20views&color=0e75b6&style=flat" alt="liuxingyu521" width="106" height="20" /> </p>
 
