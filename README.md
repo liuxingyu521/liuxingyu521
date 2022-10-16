@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm xuer</h1>
+<h1 align="center">Hi 👋, I'm Xuer</h1>
 <h3 align="center">📚 I like things that makes me progress.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
