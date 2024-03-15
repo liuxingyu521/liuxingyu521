@@ -54,4 +54,4 @@ jobs:
           plugin_people_types: followers, following
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://www.xuer.tech/feed.xml
+          plugin_rss_source: https://www.xuer.tech/rss.xml
