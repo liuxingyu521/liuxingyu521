@@ -12,11 +12,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/stats-organization/github-readme-stats-action">
-    <img align="center" width="500" height="200" src="https://raw.githubusercontent.com/liuxingyu521/liuxingyu521/refs/heads/main/profile/stats.svg#gh-light-mode-only" alt="liuxingyu521's GitHub stats" />
+  <a href="https://github.com/stats-organization/github-readme-stats-action#gh-light-mode-only">
+    <img align="center" width="500" height="200" src="./profile/stats.svg" alt="liuxingyu521's GitHub stats" />
   </a>
-  <a href="https://github.com/stats-organization/github-readme-stats-action">
-    <img align="center" width="500" height="200" src="https://raw.githubusercontent.com/liuxingyu521/liuxingyu521/refs/heads/main/profile/stats-dark.svg#gh-dark-mode-only" alt="liuxingyu521's GitHub stats" />
+  <a href="https://github.com/stats-organization/github-readme-stats-action#gh-dark-mode-only">
+    <img align="center" width="500" height="200" src="./profile/stats-dark.svg" alt="liuxingyu521's GitHub stats" />
   </a>
 </p>
 
