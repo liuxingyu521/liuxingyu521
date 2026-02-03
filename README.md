@@ -13,10 +13,10 @@
 
 <p>
   <a href="https://github.com/stats-organization/github-readme-stats-action">
-    <img align="center" width="500" height="200" src="./profile/stats.svg" alt="liuxingyu521's GitHub stats" />
+    <img align="center" width="500" height="200" src="./profile/stats.svg#gh-light-mode-only" alt="liuxingyu521's GitHub stats" />
   </a>
   <a href="https://github.com/stats-organization/github-readme-stats-action">
-    <img align="center" width="500" height="200" src="./profile/stats-dark.svg" alt="liuxingyu521's GitHub stats" />
+    <img align="center" width="500" height="200" src="./profile/stats-dark.svg#gh-dark-mode-only" alt="liuxingyu521's GitHub stats" />
   </a>
 </p>
 
