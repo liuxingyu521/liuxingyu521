@@ -12,11 +12,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <a href="https://github.com/stats-organization/github-readme-stats-action">
     <img align="center" width="500" height="200" src="./profile/stats.svg" alt="liuxingyu521's GitHub stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=liuxingyu521&show_icons=true&theme=vue-dark" alt="liuxingyu521's GitHub stats" />
+  <a href="https://github.com/stats-organization/github-readme-stats-action">
+    <img align="center" width="500" height="200" src="./profile/stats-dark.svg" alt="liuxingyu521's GitHub stats" />
   </a>
 </p>
 
