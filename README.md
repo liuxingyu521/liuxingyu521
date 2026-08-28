@@ -11,15 +11,8 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><code><img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" width="28" height="28"/></code></a> 
 </p>
 
-<p>
-  <a href="https://github.com/stats-organization/github-readme-stats-action#gh-light-mode-only">
-    <img align="center" width="500" height="200" src="./profile/stats.svg" alt="liuxingyu521's GitHub stats" />
-  </a>
-  <a href="https://github.com/stats-organization/github-readme-stats-action#gh-dark-mode-only">
-    <img align="center" width="500" height="200" src="./profile/stats-dark.svg" alt="liuxingyu521's GitHub stats" />
-  </a>
-</p>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=liuxingyu521&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true#gh-light-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=liuxingyu521&include_all_commits=true&theme=cobalt)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=cobalt#gh-dark-mode-only)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liuxingyu521&label=Profile%20views%20since%202022-10-16&color=0e75b6&style=flat" alt="liuxingyu521" width="210" height="20" /> </p>
 
