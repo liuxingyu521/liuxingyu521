@@ -14,5 +14,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=liuxingyu521&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true#gh-light-mode-only)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=liuxingyu521&include_all_commits=true&theme=cobalt)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=cobalt#gh-dark-mode-only)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liuxingyu521&label=Profile%20views%20since%202022-10-16&color=0e75b6&style=flat" alt="liuxingyu521" width="210" height="20" /> </p>
+![liuxingyu521 profile views](https://komarev.com/ghpvc/?username=liuxingyu521&label=Profile%20views%20since%202022-10-16&color=0e75b6&style=flat)
 
